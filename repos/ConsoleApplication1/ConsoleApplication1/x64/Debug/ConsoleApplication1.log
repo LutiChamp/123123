@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\s.kolesnikov\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,61): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\s.kolesnikov\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(28,61): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\s.kolesnikov\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

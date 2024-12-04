@@ -1,0 +1,2 @@
+sda admin
+asd user
